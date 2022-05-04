@@ -9,6 +9,7 @@ pandas = "1.4.2"
 benford-py = "0.5.0"
 matplotlib = "3.5.1"
 numpy = "1.22.3"
+openpyxl = "3.0.9"
 
 [dev-packages]
 
